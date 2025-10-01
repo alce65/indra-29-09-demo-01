@@ -7,8 +7,8 @@ Como ejemplo usaremos una página web simple.
 
 EL repositorio estará conectado a GitHub
 
-Las páginas disponibles con
+Páginas disponibles:
 
-- Home
-- About
-- Contact
+- Home: http://localhost:3000/
+- About: http://localhost:3000/about
+- Contactos: http://localhost:3000/contacts
