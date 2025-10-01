@@ -6,3 +6,9 @@ Esto es una demo de un curso de Git y GitHub.
 Como ejemplo usaremos una página web simple.
 
 EL repositorio estará conectado a GitHub
+
+Las páginas disponibles con
+
+- Home
+- About
+- Contact
