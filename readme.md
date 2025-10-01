@@ -12,3 +12,6 @@ Páginas disponibles:
 - Home: http://localhost:3000/
 - About: http://localhost:3000/about
 - Contactos: http://localhost:3000/contacts
+- Users: http://localhost:3000/users
+- Products: : http://localhost:3000/products
+
