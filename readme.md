@@ -6,3 +6,7 @@ Esto es una demo de un curso de Git y GitHub.
 Como ejemplo usaremos una página web simple.
 
 EL repositorio estará conectado a GitHub
+
+Paginas disponibles:
+
+- Contactos: http://localhost:3000/contacts
