@@ -1,6 +1,6 @@
 # Demo01
 
-Esto es una demo de un curso de Git y GitHub.
+Esto es una demo de un curso de Git, GitHub y GitLab.
 29/10/2024 - 02/11/2024
 
 Como ejemplo usaremos una página web simple.
@@ -14,5 +14,3 @@ Páginas disponibles:
 - Contactos: http://localhost:3000/contacts
 - Users: http://localhost:3000/users
 - Products: : http://localhost:3000/products
-
-
