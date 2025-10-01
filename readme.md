@@ -5,7 +5,7 @@ Esto es una demo de un curso de Git y GitHub.
 
 Como ejemplo usaremos una página web simple.
 
-EL repositorio estará conectado a GitHub
+EL repositorio estará conectado a [GitHub](https://github.com/alce65/indra-29-09-demo-01)
 
 Páginas disponibles:
 
@@ -14,4 +14,5 @@ Páginas disponibles:
 - Contactos: http://localhost:3000/contacts
 - Users: http://localhost:3000/users
 - Products: : http://localhost:3000/products
+
 
