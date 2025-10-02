@@ -1,0 +1,21 @@
+{
+  "name": "demo-01",
+  "version": "1.0.0",
+  "description": "Esto es una demo de un curso de Git, GitHub y GitLab.\r 29/10/2024 - 02/11/2024",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alce65/indra-29-09-demo-01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alce65/indra-29-09-demo-01/issues"
+  },
+  "homepage": "https://github.com/alce65/indra-29-09-demo-01#readme"
+}
