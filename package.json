@@ -5,7 +5,12 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 0",
+    "test": "echo \"All tests passed\" && exit 0",
+    "test:bad": "echo \"Error: test fail simulated\" && exit 1",
+    "lint": "echo \"All lint passed\" && exit 0",
+    "lint:bad": "echo \"Error: lint fail simulated\" && exit 1",
+    "build": "echo \"Build completed successfully\" && exit 0",
+    "build:bad": "echo \"Error: build fail simulated\" && exit 1",
     "prepare": "husky"
   },
   "repository": {
